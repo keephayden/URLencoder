@@ -1,0 +1,11 @@
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder.deps.json
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder.runtimeconfig.json
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder.runtimeconfig.dev.json
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder.dll
+/Users/keephayden/Desktop/URLencoder/bin/Debug/netcoreapp3.1/URLencoder.pdb
+/Users/keephayden/Desktop/URLencoder/obj/Debug/netcoreapp3.1/URLencoder.csprojAssemblyReference.cache
+/Users/keephayden/Desktop/URLencoder/obj/Debug/netcoreapp3.1/URLencoder.AssemblyInfoInputs.cache
+/Users/keephayden/Desktop/URLencoder/obj/Debug/netcoreapp3.1/URLencoder.AssemblyInfo.cs
+/Users/keephayden/Desktop/URLencoder/obj/Debug/netcoreapp3.1/URLencoder.dll
+/Users/keephayden/Desktop/URLencoder/obj/Debug/netcoreapp3.1/URLencoder.pdb
